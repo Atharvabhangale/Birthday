@@ -1,9 +1,4 @@
-
 @import url('https://fonts.googleapis.com/css2?family=Zeyada&display=swap');
-
-
-
-
 body {
   height: 100vh;
   display: flex;
@@ -11,13 +6,13 @@ body {
   justify-content: center;
 
   background-size: 100%;
-  background-image: url("bg3.jpg");
+  background-image: url("bg4.jpg");
   background-position: center center;
 }
 
 .paper {
-  background-image: url("bg4.jpg");
-  background-size: 100%;
+  background-image: url("bg3.jpg");
+  background-size: 160%;
   background-position: center center;
   padding: 20px 100px;
 /*  min-width: 800px; */
